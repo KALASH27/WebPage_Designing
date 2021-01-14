@@ -1,2 +1,2 @@
 # WebPage_Designing
-A animated webpage made using HTML5 , CSS3 abd its various transition and animation properties.
+An animated webpage made using HTML5 , CSS3 and it's various transition and animation properties.
